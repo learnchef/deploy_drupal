@@ -1,7 +1,7 @@
 deploy_drupal
 =============
 
-Deploy a Sample Drupal Application
+Install Drupal web framework and all necessary components.
 
 Vagrant
 ======
